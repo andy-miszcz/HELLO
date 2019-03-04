@@ -1,3 +1,1 @@
-Hello
-* KUKU1
-* KUKU2
+Hello all ... :*
